@@ -1,0 +1,49 @@
+  
+            body{
+                background-image: url(..image/back2.jpg);
+                background-repeat:repeat;
+                background-size:cover;
+            }
+
+            #logo {
+                display: block;
+                margin: auto;
+            }
+            #brkode {
+                font-family: 'Libre Barcode 39';font-size: 60px;
+            }
+
+            .brcode {
+                padding:10px;
+                text-align: center;
+                border: 0.5px solid black;
+                border-radius: 30px;
+                background-color:white;
+                margin-left: 10px;
+                margin-right: 10px;
+                text-align: center;
+            }
+
+            .brcode ul {
+                list-style-type: none;
+                overflow: hidden;
+                margin: 0;
+                padding: 0;
+                text-align: center;
+            }
+
+            .brcode li {
+                text-align: center;
+                padding: 0px,0px;
+            }
+
+            #tombol button{
+                color:rgb(255, 255, 255);
+                background-color: blue;
+                padding: 13px 32px;
+                border-radius: 5px;
+                text-align: center;
+                width: 100%;
+                
+            }
+            

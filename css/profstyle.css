@@ -1,0 +1,24 @@
+body{
+    background-image: url(../image/backall.jpg);
+    background-repeat: repeat;
+}
+
+.mythumbnail {
+    transition: transform 0.5s;
+  }
+
+.mythumbnail:hover {
+    transform:scale(1.1);
+  }
+
+.prof {
+      text-align: justify;
+    }
+
+div.allgal {
+    margin-left: 10px;
+}
+
+div.ket2 {
+    padding: 10px 10px;
+}

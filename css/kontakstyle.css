@@ -1,0 +1,34 @@
+body{
+    background-image: url(../image/backall.jpg);
+    background-repeat: repeat;
+}
+
+h5{
+    text-align: center;
+}
+
+
+#isidata textarea {
+    border: 0.5px solid black;
+    height: 30px;
+    border-radius: 5px;
+    width: 100%;
+    height: 140px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+
+}
+
+.button {
+    margin: 10px 25px;
+    background-color: blue;
+
+}
+
+#container  #btn {
+    text-align: center;
+}
+
+small {
+    color: red;
+}

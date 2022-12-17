@@ -1,0 +1,29 @@
+
+#isidata{
+    border-radius: 5px;
+    padding: 20px;
+
+}
+
+label{
+    color: blue;
+    font-style: italic;
+}
+
+#isidata input {
+    border: 0.5px solid black;
+    height: 30px;
+    border-radius: 5px;
+    width: 100%;
+
+}
+
+h4{
+    text-align: center;
+}
+
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
